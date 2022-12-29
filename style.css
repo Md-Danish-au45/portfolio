@@ -130,7 +130,7 @@ header .navbar ul li a{
     background:#333;
     color:#fff;
     font-size: 2rem;
-    border-radius: 5rem;
+    border-radius: 4rem;
 }
 
 header .navbar ul li a:hover{
@@ -412,11 +412,11 @@ header .navbar ul li a:hover{
     html{
         font-size: 50%;
     }
- 
  }
 
-@media (max-width:400px){
 
+
+@media (max-width:400px){
     header{
         width: 100vw;
     }
